@@ -11,7 +11,8 @@ This is where you can find all things code challenge! Will be updated daily to s
  ---
 
  ## Orientation Week
-- [Introduction to Code Challenges and Leanring Mindsets Slides](https://docs.google.com/presentation/d/1oT53rdqilarTaa7XlzZ95wJcGQSv4aPUxZMwByTfe5A/edit?usp=sharing)
+- [Introduction To Learning Mindsets](https://docs.google.com/presentation/d/1jTQIlfKSDHDS9VUeqH8YwKO40ObkoSDVm95yQ5Jd_1w/edit?usp=sharing)
+- [Cracking The Technical Interview](https://docs.google.com/presentation/d/13xx2GRExiXtzVUM6iQUeVcJs_ru_egnAP1S1Pqv5w9c/edit?usp=sharing)
 
 ---
 
