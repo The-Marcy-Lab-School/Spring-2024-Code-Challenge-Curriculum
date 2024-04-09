@@ -25,3 +25,12 @@ This is where you can find all things code challenge! Will be updated daily to s
 
 ## Unit 1 - Foundational Fluency: Loops with Conditionals 
 - **04/02/24 - cc-03: For Loops** | [Slides](https://docs.google.com/presentation/d/1pD7k-ulyWm3hP1GtApBh9R6ng7IkwlCdAvQpatTNhH8/edit?usp=sharing) | [Code Challenge Link](https://classroom.github.com/a/jGPlvFiy)
+- **04/03/24 - cc-04: For Loops & Control Flow** | [Code Challenge Link](https://classroom.github.com/a/O9bsiZV6)
+- **04/04/24 - cc-05: For Loops & Control Flow** | [Code Challenge Link](https://classroom.github.com/a/fohW6hZr)
+
+---
+
+## Unit 2 -  Iterables: Strings, Arrays, Objects
+- **04/08/24 - cc-06: Strings** | [Slides](https://docs.google.com/presentation/d/1bVPo9Vz5UTMmdsv54-yNni7QLuDkwjKBKYG2Jo5_c3A/edit?usp=sharing) | [Code Challenge Link](https://classroom.github.com/a/pDKQtVNg)
+
+- **04/09/24 - cc-06: Arrays** | [Slides](https://docs.google.com/presentation/d/1d3QDkTUDEOTSUDkcj9_gPfsHmwywAKlkW2EUtHKLwYU/edit?usp=sharing) | [Code Challenge Link](https://classroom.github.com/a/XghK1XU-)
