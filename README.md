@@ -35,4 +35,9 @@ This is where you can find all things code challenge! Will be updated daily to s
 
 - **04/09/24 - cc-06: Arrays** | [Slides](https://docs.google.com/presentation/d/1d3QDkTUDEOTSUDkcj9_gPfsHmwywAKlkW2EUtHKLwYU/edit?usp=sharing) | [Code Challenge Link](https://classroom.github.com/a/XghK1XU-)
 
-- **04/10/24 - cc-06: Strings and Arrays** | [Code Challenge Link](https://classroom.github.com/a/roypsjfT)
+- **04/10/24 - cc-07: Strings and Arrays** | [Code Challenge Link](https://classroom.github.com/a/roypsjfT)
+
+- **04/15/24 - cc-08: Objects** | [Slides](https://docs.google.com/presentation/d/1qnnqIeF67p7jMJm_KZNLnJFBp3X64RMpSTfw2F-uU_E/edit?usp=sharing) | [Code Challenge Link](https://classroom.github.com/a/XghK1XU-)
+
+- **04/16/24 - cc-09: Objects** | [Code Challenge Link](https://classroom.github.com/a/OrIyMv1H)
+  
