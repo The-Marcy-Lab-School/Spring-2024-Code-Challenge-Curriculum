@@ -11,6 +11,8 @@ This is where you can find all things code challenge! Will be updated daily to s
 
 - [Unit 2 - Iterables: Strings, Arrays, Objects](#unit-2---iterables-strings-arrays-objects)
 
+- [Unit 3 - PEDAC](#unit-3---pedac)
+
  ---
 
  ## Orientation Week
@@ -52,3 +54,32 @@ This is where you can find all things code challenge! Will be updated daily to s
 - **04/16/24 - cc-11: Objects Part 2** | [Code Challenge Link](https://classroom.github.com/a/OrIyMv1H)
   
 - **04/17/24 - cc-11-pt2: Objects Part 3** | [Code Challenge Link](https://classroom.github.com/a/2hKimMDl)
+
+---
+
+## Unit 3 - PEDAC + Code Signal
+[PEDAC DECK](https://docs.google.com/presentation/d/1A2W91EE5OVKmrQUBtXhYI-ltwBp-43KsyNxkDC7oBrk/edit)
+
+- **04/23/24 - validTime: Lvl1** | [Kairos](https://app.codesignal.com/public-test/2RqXw3iAAsx4QvSvJ/ag6Gfh6vc7gsGz) [Nirvana](https://app.codesignal.com/public-test/2RqXw3iAAsx4QvSvJ/xjwoworaBG6jLE)
+
+- **04/24/24 - fizzBuzz: Lvl1** | [Kairos](https://app.codesignal.com/public-test/KS6axD7Ei6BYvegJe/6FisEuCm65Fs5d) [Nirvana](https://app.codesignal.com/public-test/2RqXw3iAAsx4QvSvJ/xjwoworaBG6jLE)
+
+- **04/29/24 - digitSumsDifference: Lvl1** | [Kairos](https://app.codesignal.com/public-test/te4eMeg5PXvWBZFJb/A4yKNQcJif2jMy) [Nirvana](https://app.codesignal.com/public-test/te4eMeg5PXvWBZFJb/DcmDLB5ov9fDYg)
+
+- **04/30/24 - firstNotRepeatingCharacter: Lvl1** | [Kairos](https://app.codesignal.com/public-test/YXkz6PSFtum3eKi2a/EuQToFwRudN3Nf) [Nirvana](https://app.codesignal.com/public-test/YXkz6PSFtum3eKi2a/CPMgdSjrKYbTne)
+
+- **05/01/24 - isMac48Address: Lvl1** | [Kairos](https://app.codesignal.com/public-test/MTmaxyEJqSNQ2haC5/pmCD4ts74QcRh8) [Nirvana](https://app.codesignal.com/public-test/MTmaxyEJqSNQ2haC5/muH6w7eFapdaag)
+
+- **05/02/24 - compareEvenOddSum: Lvl1** | [Kairos](https://app.codesignal.com/public-test/qcXw62QsS8kswYZvf/uwCCujEYwvAeF7) [Nirvana](https://app.codesignal.com/public-test/qcXw62QsS8kswYZvf/5X7AGSB8pPqxKv)
+
+- **05/06/24 - maxValue: Lvl1** | [Kairos](https://app.codesignal.com/public-test/NZEsFoKtj64curGWi/g2G89edrWu4Kqs) [Nirvana](https://app.codesignal.com/public-test/NZEsFoKtj64curGWi/v5DoWc5iggdJ3w)
+
+- **05/07/24 - addBorder: Lvl1** | [Kairos](https://app.codesignal.com/public-test/sAeNanDsXEaf7JZJN/2xgoz8fXjyj9rz) [Nirvana](https://app.codesignal.com/public-test/sAeNanDsXEaf7JZJN/htHqtoKma88ktS)
+
+- **05/08/24 - countVowelConsonants: Lvl1** | [Kairos](https://app.codesignal.com/public-test/v9AAfiS6f4gtwFxeR/9jnsZxrw2oBZwt) [Nirvana](https://app.codesignal.com/public-test/v9AAfiS6f4gtwFxeR/gcbkx2ngXSp94g)
+
+- **05/09/24 - finalHP: Lvl1** | [Kairos](https://app.codesignal.com/public-test/XM4nRt8XZ25TCbD9j/4hccX7sPQpzx7o) [Nirvana](https://app.codesignal.com/public-test/XM4nRt8XZ25TCbD9j/CNrQHaCW5XHZES)
+
+
+
+
