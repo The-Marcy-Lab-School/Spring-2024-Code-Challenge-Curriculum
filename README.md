@@ -13,6 +13,8 @@ This is where you can find all things code challenge! Will be updated daily to s
 
 - [Unit 3 - PEDAC](#unit-3---pedac)
 
+- [Unit 4 - GCF](#unit-4---gcf)
+
  ---
 
  ## Orientation Week
@@ -80,6 +82,19 @@ This is where you can find all things code challenge! Will be updated daily to s
 
 - **05/09/24 - finalHP: Lvl1** | [Kairos](https://app.codesignal.com/public-test/XM4nRt8XZ25TCbD9j/4hccX7sPQpzx7o) [Nirvana](https://app.codesignal.com/public-test/XM4nRt8XZ25TCbD9j/CNrQHaCW5XHZES)
 
+---
 
+## Unit 4 - GCF Prep
+- **05/13/24 - canMakeTriangle: Lvl1** | [Kairos](https://app.codesignal.com/public-test/i4Zo2SDdgukBvYyM6/X7yD6gmN3oB68r) [Nirvana](https://app.codesignal.com/public-test/i4Zo2SDdgukBvYyM6/gKHfhpxYT6NGuF)
+  
+- **05/14/24 - calculateRatingLevel: Lvl1** | [Kairos](https://app.codesignal.com/public-test/sj5u439YEpvnEKpWN/aCf3shycrhgFiX) [Nirvana](https://app.codesignal.com/public-test/sj5u439YEpvnEKpWN/EnvQuDyfvFouA2)
 
+- **05/15/24 - arrayBaseComparison: Lvl1** | [Kairos](https://app.codesignal.com/public-test/QNZZwNhwG3QAeWEYj/uC7FLu3SyKjAAT) [Nirvana](https://app.codesignal.com/public-test/QNZZwNhwG3QAeWEYj/K8gWckHb6vtAfC)
 
+- **05/16/24 - arraySignComparison: Lvl1** | [Kairos](https://app.codesignal.com/public-test/ZMaW32Cgkh6F3HHGh/dRpnav5o8qrmmZ) [Nirvana](https://app.codesignal.com/public-test/ZMaW32Cgkh6F3HHGh/wvm5KdRG97uPJZ)
+
+- **05/20/24 - notTheFirstTwo: Lvl1** | [Kairos](https://app.codesignal.com/public-test/kaJixwudmtxW8yNTJ/sfArmg9kP6APTW) [Nirvana](https://app.codesignal.com/public-test/kaJixwudmtxW8yNTJ/bELRqeZEfaoY3Z)
+- 
+- **05/21/24 - bestItemPrice: Lvl1** | [Kairos](https://app.codesignal.com/public-test/bSyfseoANhQcXNfMx/nim3RcbjmAiano) [Nirvana](https://app.codesignal.com/public-test/bSyfseoANhQcXNfMx/HDGyp7ZcERFf7L)
+- 
+- **05/22/24 - checkEvenMonotonic: Lvl1** | [Kairos](https://app.codesignal.com/public-test/v8QPyrGbADYpY6r5n/sZ3cXqKyFyjxvX) [Nirvana](https://app.codesignal.com/public-test/v8QPyrGbADYpY6r5n/ZrBqcnrD6YL98R)
