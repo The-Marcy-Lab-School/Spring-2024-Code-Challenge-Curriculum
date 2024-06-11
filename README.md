@@ -94,7 +94,7 @@ This is where you can find all things code challenge! Will be updated daily to s
 - **05/16/24 - arraySignComparison: Lvl1** | [Kairos](https://app.codesignal.com/public-test/ZMaW32Cgkh6F3HHGh/dRpnav5o8qrmmZ) [Nirvana](https://app.codesignal.com/public-test/ZMaW32Cgkh6F3HHGh/wvm5KdRG97uPJZ)
 
 - **05/20/24 - notTheFirstTwo: Lvl1** | [Kairos](https://app.codesignal.com/public-test/kaJixwudmtxW8yNTJ/sfArmg9kP6APTW) [Nirvana](https://app.codesignal.com/public-test/kaJixwudmtxW8yNTJ/bELRqeZEfaoY3Z)
-- 
+  
 - **05/21/24 - bestItemPrice: Lvl1** | [Kairos](https://app.codesignal.com/public-test/bSyfseoANhQcXNfMx/nim3RcbjmAiano) [Nirvana](https://app.codesignal.com/public-test/bSyfseoANhQcXNfMx/HDGyp7ZcERFf7L)
-- 
+  
 - **05/22/24 - checkEvenMonotonic: Lvl1** | [Kairos](https://app.codesignal.com/public-test/v8QPyrGbADYpY6r5n/sZ3cXqKyFyjxvX) [Nirvana](https://app.codesignal.com/public-test/v8QPyrGbADYpY6r5n/ZrBqcnrD6YL98R)
